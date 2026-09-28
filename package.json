@@ -9,8 +9,10 @@
     "start": "next start"
   },
   "dependencies": {
+    "@ai-sdk/gateway": "^4.0.96",
     "@base-ui/react": "^1.5.0",
     "@vercel/analytics": "1.6.1",
+    "ai": "^7.0.118",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "lucide-react": "^1.16.0",
@@ -28,6 +30,7 @@
     "@types/react-dom": "^19",
     "postcss": "^8.5",
     "tailwindcss": "^4.3.3",
+    "tsx": "^4.23.15",
     "typescript": "5.7.3"
   }
 }
